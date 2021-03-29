@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "izubairsh.github.io",
+  "homepage": "https://izubairsh.github.io/Portfolio",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.0.0",
