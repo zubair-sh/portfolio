@@ -27,7 +27,7 @@ const Hero = () => {
         </h1>
         <p className="tracking-wide leading-relaxed">
           I have a passion for developing user-friendly, accessible and
-          responsive websites. I never stop learning and for me, each new
+          responsive applications. I never stop learning and for me, each new
           project is another adventure.{' '}
         </p>
       </div>
