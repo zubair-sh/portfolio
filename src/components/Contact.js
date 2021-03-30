@@ -21,7 +21,7 @@ const Contact = () => {
           </div>
           <a
             className="border-b-2 mt-3 inline-block border-gray-500"
-            href="./Resume - Theelipan Prabakar.pdf"
+            href="./Resume-Zubair-Sheikh.pdf"
             target="_blank"
             rel="noreferrer"
           >
@@ -66,7 +66,7 @@ const Contact = () => {
               </a>
             </div>
 
-            <a
+            {/* <a
               href="https://codepen.io/Theelipan"
               target="_blank"
               rel="noreferrer"
@@ -81,7 +81,7 @@ const Contact = () => {
                 />
                 CodePen
               </span>
-            </a>
+            </a> */}
           </div>
         </div>
 
