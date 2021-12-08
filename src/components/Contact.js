@@ -13,7 +13,7 @@ const Contact = () => {
             <p className="font-bold">Zubair Sheikh</p>
             <p className="font-thin">Lahore, Pakistan</p>
             <a
-              href="mailto: Theelipan@gmail.com"
+              href="mailto: izubairsh@gmail.com"
               className="border-b-2 mt-3 inline-block border-gray-500"
             >
               izubairsh@gmail.com

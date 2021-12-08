@@ -1,21 +1,21 @@
 const projects = [
   {
-    title: 'Streamming App',
+    title: 'LiveWaves',
     image: './images/livewaves',
     description:
       "It's an ALL IN ONE tool for content creators that allows users to livestream.",
     tools: ['iOS', 'API', 'Red5pro', 'Firebase'],
-    github: 'https://github.com/Deelip7/react-tmdb-app',
+    github: '',
     link: 'https://apps.apple.com/pk/app/livewaves/id1519452753',
   },
   {
-    title: 'MERN eCommerce',
-    image: './images/sellfo',
+    title: 'Tap-O',
+    image: './images/tapo',
     description:
-      'Full featured ecommerce store built with MERN stack and Paypal payments API. Admin page to manage customers, products & orders.',
-    tools: ['React', 'Redux', 'MongoDB', 'JWT', 'Express'],
-    github: 'https://github.com/Deelip7/react-node-ecommerce',
-    link: 'https://sellfo.herokuapp.com/',
+      'Tap-o is your digital business card. You can share your personal profiles or your company with others in just one second.',
+    tools: ['React', 'Redux', 'MongoDB', 'JWT', 'Express', 'SwifUI'],
+    github: '',
+    link: 'https://tap-o.com',
   },
 ];
 
