@@ -1,21 +1,20 @@
 const projects = [
   {
-    title: 'LiveWaves',
-    image: './images/livewaves',
+    title: "Your Card",
+    image: "./images/yourcard",
     description:
-      "It's an ALL IN ONE tool for content creators that allows users to livestream.",
-    tools: ['iOS', 'API', 'Red5pro', 'Firebase'],
-    github: '',
-    link: 'https://apps.apple.com/pk/app/livewaves/id1519452753',
-  },
-  {
-    title: 'Tap-O',
-    image: './images/tapo',
-    description:
-      'Tap-o is your digital business card. You can share your personal profiles or your company with others in just one second.',
-    tools: ['React', 'Redux', 'MongoDB', 'JWT', 'Express', 'SwifUI'],
-    github: '',
-    link: 'https://tap-o.com',
+      "I have revolutionized contact exchange by leveraging NFC technology, enabling effortless sharing of contact information. I have developed a robust backend using the MERN stack to ensure seamless data management. By leveraging AWS services, I have enhanced the functionality and scalability of the solution. The result is a feature-rich solution that enables efficient and convenient contact sharing.",
+    tools: [
+      "React.js",
+      "Next.js",
+      "Express.js",
+      "MongoDb",
+      "Flutter",
+      "AWS",
+      "S3",
+    ],
+    github: "",
+    link: "https://yourcard.au",
   },
 ];
 

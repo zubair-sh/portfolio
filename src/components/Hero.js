@@ -1,6 +1,6 @@
-import React, { useEffect, useRef } from 'react';
-import Lottie from 'lottie-web';
-import animate from 'lottie-web';
+import React, { useEffect, useRef } from "react";
+import Lottie from "lottie-web";
+import animate from "lottie-web";
 
 const Hero = () => {
   const container = useRef(null);
@@ -8,10 +8,10 @@ const Hero = () => {
   useEffect(() => {
     Lottie.loadAnimation({
       container: container.current,
-      renderer: 'svg',
+      renderer: "svg",
       loop: true,
       autoplay: true,
-      animationData: require('./astronaout.json'),
+      animationData: require("./astronaout.json"),
     });
     animate.setSpeed(0.5);
   }, []);
@@ -26,9 +26,20 @@ const Hero = () => {
           Hello. I’m Zubair Sheikh
         </h1>
         <p className="tracking-wide leading-relaxed">
-          I have a passion for developing user-friendly, accessible and
-          responsive applications. I never stop learning and for me, each new
-          project is another adventure.{' '}
+          I am a highly competent and proficient professional with a relentless
+          drive for excellence across various domains. With a deep-rooted
+          passion for continuous learning, I possess up-to-date knowledge and
+          expertise in a wide range of fields. As a talented team player, I
+          bring exceptional engineering abilities and a collaborative mindset to
+          every project. I am recognised for my unwavering dedication,
+          outstanding analytical skills, and a knack for solving complex
+          problems with ease.
+          <br />
+          <br />
+          Specialties: Solution Architecture, Software Architecture & Design,
+          Program / Project Management, Security Specialist, MDM Specialist BI
+          Analyst, ERP Software Architect, EAI, EDI, Enterprise Integration,
+          Large Scale Implementations/Rollouts
         </p>
       </div>
     </section>
