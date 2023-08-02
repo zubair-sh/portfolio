@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there 👋 I'm Zubair a Full Stack Software Engineer<br><br>👨🏻‍💻 I’m currently working as Full Stack Software Engineer at Dev Protocols.<br>🔬 I’m currently learning about project managment, blockchain, cryptocurrency, decentralized finance and decentralized applications.<br>📫 How to reach me: Email me at izubairsh@gmail.com
+Hi there 👋 I'm Zubair a Full Stack Software Engineer<br><br>👨🏻‍💻 I’m currently working as Full Stack Software Engineer at Xertk.<br>🔬 I’m currently learning about project managment, blockchain, cryptocurrency, decentralized finance and decentralized applications.<br>📫 How to reach me: Email me at izubairsh@gmail.com
 
 ## 🌐 Socials:
 
