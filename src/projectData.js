@@ -1,6 +1,6 @@
 const projects = [
   {
-    title: 'Your Card',
+    title: 'Falafel Corner',
     image: './images/projects/fcorner',
     description:
       'Developed web and mobile apps to enhance online revenue for a 30+ branch restaurant chain, improving order processes and customer interaction.',
